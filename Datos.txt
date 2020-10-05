@@ -1,0 +1,8 @@
+﻿Comunicate 
+
+Nuestro Equipo de trabajo esta conformado por:
+
+Julian Rocha: Se encargo de realizar el contenido de los planes de telefonia.
+Johan Stiven Suarez: Se encargo de realizar la maquetación de la pagina y compilación de la misma.
+Altair Machuca: Se encargo de realizar el slider y el footer.
+Angie Cortés: Se encargo de realizar el contenido de los celulares.
